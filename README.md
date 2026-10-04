@@ -344,32 +344,9 @@ PORT=5001
 
 ---
 
-## 📦 Sample Products
 
-| Product | Category | Vendor | Price | Stock |
-|---|---|---|---|---|
-| Wireless Headphones | Electronics | TechMart | ₹2,999 | 180 |
-| Smart Watch | Electronics | TechMart | ₹8,999 | 95 |
-| Laptop Bag | Electronics | TechMart | ₹1,499 | 30 |
-| Bluetooth Speaker | Electronics | TechMart | ₹3,499 | 60 |
-| Men's T-Shirt | Clothing | FashionHub | ₹599 | 250 |
-| Women's Dress | Clothing | FashionHub | ₹1,299 | 120 |
-| Running Shoes | Clothing | FashionHub | ₹2,499 | 75 |
-| Yoga Mat | Sports | SportZone | ₹899 | 45 |
-| Dumbbell Set | Sports | SportZone | ₹4,599 | 20 |
-| Football | Sports | SportZone | ₹799 | 85 |
-| Sofa Cushions Set | Home & Living | HomeDecor Pro | ₹1,299 | 55 |
-| Wall Art Canvas | Home & Living | HomeDecor Pro | ₹2,199 | 38 |
-| Table Lamp | Home & Living | HomeDecor Pro | ₹1,899 | 42 |
-| The Midnight Library | Books | BookWorld | ₹349 | 200 |
-| Python Programming Guide | Books | BookWorld | ₹499 | 150 |
-| Children's Story Collection | Books | BookWorld | ₹299 | 175 |
-| Face Serum Set | Beauty | TechMart | ₹1,599 | 65 |
-| Hair Care Kit | Beauty | FashionHub | ₹1,199 | 90 |
-| LEGO Building Set | Toys | HomeDecor Pro | ₹3,299 | 35 |
-| Organic Spices Pack | Food & Grocery | SportZone | ₹499 | 110 |
 
----
+
 
 ## 🛠️ Tech Stack
 
